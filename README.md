@@ -5,11 +5,6 @@
 [![George Lucas GitHub Stats](https://github-readme-stats.vercel.app/api?username=georgelucgo&hide=stars,prs,issues,contribs&show_icons=true&bg_color=000000)](https://github.com/georgelucgo/)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=georgelucgo&layout=compact&bg_color=000000)
 
-![Snake animation](https://github.com/georgelucgo/georgelucgo/blob/output/github-contribution-grid-snake.svg)
-
-[![readme](https://github-readme-stats.vercel.app/api/pin/?username=georgelucgo&repo=georgelucgo&theme=react)](https://github.com/georgelucgo/georgelucgo)
-
-
 <h1>Tecnologias</h1>
 <div style="display: inline_block"><br>
   <img align="center" alt="HTML" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
