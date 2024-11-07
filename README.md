@@ -2,16 +2,16 @@
 <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&color=4493f8&center=true&vCenter=true&width=500&height=70&duration=2000&lines=olá!+👋;+me+chamo+George+Lucas!;sou+Desenvolvedor+Web" />
 </h1>
 
-[![George Lucas GitHub Stats](https://github-readme-stats.vercel.app/api?username=georgelucgo&hide=stars,prs,issues,contribs&show_icons=true&bg_color=000000)](https://github.com/georgelucgo/)
+[![George Lucas GitHub Stats](https://github-readme-stats.vercel.app/api?username=georgelucgo&hide=stars,prs,issues,contribs&show_icons=true&locale=pt-br&bg_color=000000)](https://github.com/georgelucgo/)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=georgelucgo&locale=pt-br&layout=compact&bg_color=000000)
 
 
 <h1>Principais repositórios</h1>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=georgelucgo&repo=purchaseway-blog&theme=radical)](https://github.com/georgelucgo/webcarros)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=georgelucgo&repo=pw-music-game&theme=radical)](https://github.com/georgelucgo/petshop-cart)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=georgelucgo&repo=pw-animes-react&theme=radical)](https://github.com/georgelucgo/projeto-cripto)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=georgelucgo&repo=purchaseway-music&theme=radical)](https://github.com/georgelucgo/projeto-linktree)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=georgelucgo&repo=webcarros&theme=radical)](https://github.com/georgelucgo/webcarros)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=georgelucgo&repo=petshop-cart&theme=radical)](https://github.com/georgelucgo/petshop-cart)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=georgelucgo&repo=projeto-cripto&theme=radical)](https://github.com/georgelucgo/projeto-cripto)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=georgelucgo&repo=projeto-linktree&theme=radical)](https://github.com/georgelucgo/projeto-linktree)
 
 <h1>Tecnologias</h1>
 <div style="display: inline_block"><br>
