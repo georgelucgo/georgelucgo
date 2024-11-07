@@ -1,9 +1,14 @@
 <h1 align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=olá!+👋;+me+chamo+George+Lucas!;" />
+<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&color=4493f8&center=true&vCenter=true&width=500&height=70&duration=2000&lines=olá!+👋;+me+chamo+George+Lucas!;sou+Desenvolvedor+Web" />
 </h1>
 
 [![George Lucas GitHub Stats](https://github-readme-stats.vercel.app/api?username=georgelucgo&hide=stars,prs,issues,contribs&show_icons=true&bg_color=000000)](https://github.com/georgelucgo/)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=georgelucgo&layout=compact&bg_color=000000)
+
+![Snake animation](https://github.com/georgelucgo/georgelucgo/blob/output/github-contribution-grid-snake.svg)
+
+[![readme](https://github-readme-stats.vercel.app/api/pin/?username=georgelucgo&repo=georgelucgo&theme=react)](https://github.com/georgelucgo/georgelucgo)
+
 
 <h1>Tecnologias</h1>
 <div style="display: inline_block"><br>
