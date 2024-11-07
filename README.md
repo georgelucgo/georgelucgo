@@ -5,6 +5,14 @@
 [![George Lucas GitHub Stats](https://github-readme-stats.vercel.app/api?username=georgelucgo&hide=stars,prs,issues,contribs&show_icons=true&bg_color=000000)](https://github.com/georgelucgo/)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=georgelucgo&layout=compact&bg_color=000000)
 
+
+<h1>Principais repositórios</h1>
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=georgelucgo&repo=purchaseway-blog&theme=radical)](https://github.com/georgelucgo/webcarros)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=georgelucgo&repo=pw-music-game&theme=radical)](https://github.com/georgelucgo/petshop-cart)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=georgelucgo&repo=pw-animes-react&theme=radical)](https://github.com/georgelucgo/projeto-cripto)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=georgelucgo&repo=purchaseway-music&theme=radical)](https://github.com/georgelucgo/projeto-linktree)
+
 <h1>Tecnologias</h1>
 <div style="display: inline_block"><br>
   <img align="center" alt="HTML" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
