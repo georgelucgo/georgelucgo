@@ -3,7 +3,7 @@
 </h1>
 
 [![George Lucas GitHub Stats](https://github-readme-stats.vercel.app/api?username=georgelucgo&hide=stars,prs,issues,contribs&show_icons=true&bg_color=000000)](https://github.com/georgelucgo/)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=georgelucgo&layout=compact&bg_color=000000)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=georgelucgo&locale=pt-br&layout=compact&bg_color=000000)
 
 
 <h1>Principais repositórios</h1>
