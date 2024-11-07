@@ -8,10 +8,10 @@
 
 <h1>Principais repositórios</h1>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=georgelucgo&repo=webcarros&theme=radical)](https://github.com/georgelucgo/webcarros)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=georgelucgo&repo=petshop-cart&theme=radical)](https://github.com/georgelucgo/petshop-cart)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=georgelucgo&repo=projeto-cripto&theme=radical)](https://github.com/georgelucgo/projeto-cripto)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=georgelucgo&repo=projeto-linktree&theme=radical)](https://github.com/georgelucgo/projeto-linktree)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=georgelucgo&repo=webcarros&bg_color=000000)](https://github.com/georgelucgo/webcarros)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=georgelucgo&repo=petshop-cart&bg_color=000000)](https://github.com/georgelucgo/petshop-cart)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=georgelucgo&repo=projeto-cripto&bg_color=000000)](https://github.com/georgelucgo/projeto-cripto)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=georgelucgo&repo=projeto-linktree&bg_color=000000)](https://github.com/georgelucgo/projeto-linktree)
 
 <h1>Tecnologias</h1>
 <div style="display: inline_block"><br>
