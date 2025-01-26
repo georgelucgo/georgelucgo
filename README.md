@@ -8,8 +8,8 @@
 
 <h1>Principais repositórios</h1>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=georgelucgo&repo=webcarros&bg_color=000000)](https://github.com/georgelucgo/webcarros)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=georgelucgo&repo=petshop-cart&bg_color=000000)](https://github.com/georgelucgo/petshop-cart)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=georgelucgo&repo=taskbot&bg_color=000000)](https://github.com/georgelucgo/taskbot)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=georgelucgo&repo=love-pair&bg_color=000000)](https://github.com/georgelucgo/love-pair)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=georgelucgo&repo=projeto-cripto&bg_color=000000)](https://github.com/georgelucgo/projeto-cripto)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=georgelucgo&repo=projeto-linktree&bg_color=000000)](https://github.com/georgelucgo/projeto-linktree)
 
