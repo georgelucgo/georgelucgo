@@ -10,7 +10,7 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=georgelucgo&repo=spirit-ride&bg_color=000000)](https://github.com/georgelucgo/spirit-ride)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=georgelucgo&repo=webcarros&bg_color=000000)](https://github.com/georgelucgo/webcarros)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=georgelucgo&repo=projeto-cripto&bg_color=000000)](https://github.com/georgelucgo/projeto-cripto)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=georgelucgo&repo=love-pair&bg_color=000000)](https://github.com/georgelucgo/love-pair)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=georgelucgo&repo=projeto-linktree&bg_color=000000)](https://github.com/georgelucgo/projeto-linktree)
 
 <h1>Tecnologias</h1>
